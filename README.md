@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-First lesson on course html+css
+# goit-markup-hw-02
+Second lesson on course html+css
