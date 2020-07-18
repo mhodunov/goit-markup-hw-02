@@ -25,6 +25,10 @@ footer {
 	background-color: var(--footer-background);
 }
 
+button {
+	font-family: inherit;
+}
+
 /*Logo*/
 
 .logo {
@@ -95,8 +99,6 @@ footer {
 /*Buttons*/
 
 .button {
-	font-family: Roboto, sans-serif;
-	font-style: normal;
 	background-color: var(--additional-color);
 	color: var(--primary-text-color);
 	font-weight: 700;
