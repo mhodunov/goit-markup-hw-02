@@ -146,6 +146,7 @@ footer {
 .section-title-description.white {
 	background-color: var(--overlay-color);
 	color: var(--additional-color);
+	text-align: center;
 }
 
 /*Team*/
